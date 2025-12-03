@@ -1,9 +1,10 @@
-on:
+name: "Trigger: Push action"    
+
+on:                            
   push:
     branches:
       - main
 
-name: "Trigger: Push action"
 permissions: {}
 
 jobs:
