@@ -1,0 +1,58 @@
+name: Markdown Linting
+
+on:
+  pull_request:
+    paths:
+      - '**.md'
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+
+jobs:
+  write-good:
+    name: Check Markdown Files
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install write-good
+        run: npm install -g write-good
+      
+      - name: Find and check markdown files
+        run: |
+          # Find all .md files and check them
+          EXIT_CODE=0
+          
+          echo "Checking Markdown files with write-good..."
+          echo "========================================"
+          
+          for file in $(find . -name "*.md" -not -path "./node_modules/*"); do
+            echo ""
+            echo "Checking: $file"
+            echo "----------------------------------------"
+            
+            if write-good "$file"; then
+              echo "✅ No issues found in $file"
+            else
+              echo "❌ Issues found in $file"
+              EXIT_CODE=1
+            fi
+          done
+          
+          echo ""
+          echo "========================================"
+          
+          if [ $EXIT_CODE -ne 0 ]; then
+            echo "❌ Linting failed! Please fix the issues above."
+            exit 1
+          else
+            echo "✅ All markdown file          fi
