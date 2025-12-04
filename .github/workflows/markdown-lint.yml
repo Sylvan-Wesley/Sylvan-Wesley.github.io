@@ -55,4 +55,5 @@ jobs:
             echo "❌ Linting failed! Please fix the issues above."
             exit 1
           else
-            echo "✅ All markdown file          "  fi
+            echo "✅ All markdown file          "
+          fi  
