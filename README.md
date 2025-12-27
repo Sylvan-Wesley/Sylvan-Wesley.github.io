@@ -1,7 +1,5 @@
 # Sylvan (Xinyuan) Wei
-Github profile of Sylvan Wei
-
-> *"Like electrons seeking lower energy states, I'm driven toward elegant solutions."*
+> *"Like compounds awaiting their only perfect match, I'm driven toward THE elegant solution."*
 
 ---
 
