@@ -5,7 +5,7 @@
 
 ## 🧪 About Me
 
-A **Chinese Chemistry Olympiad** veteran now channeling that molecular intuition into the realm of **Artificial Intelligence, **freshman at Yuanpei College, Peking University. Just as simple atoms bond to form complex structures, I'm learning to weave neural architectures that think, see, and act.
+A **Chinese Chemistry Olympiad** veteran — now a freshman at Yuanpei College, Peking University — channeling that molecular intuition into the realm of **Artificial Intelligence**. Just as simple atoms bond to form complex structures, I'm learning to weave neural architectures that think, see, and act.
 
 From balancing equations to balancing gradients — the reaction continues.
 
