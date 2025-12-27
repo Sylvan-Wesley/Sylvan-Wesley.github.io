@@ -24,7 +24,7 @@ From balancing equations to balancing gradients — the reaction continues.
 ### Year 1
 
 - **Machine Learning**
-- **CS231n ** *(self-taught)* 
+- **CS231n** *(self-taught)* 
 - **Missing Semester** *(self-taught)*
 - **Readings in English Prose**
 
