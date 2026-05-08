@@ -24,15 +24,18 @@ From balancing equations to balancing gradients — the reaction continues.
 - **Machine Learning**
 - **CS231n** *(self-taught)* 
 - **Missing Semester** *(self-taught)*
-- **Readings in English Prose**
+- Intensive Readings for English Majors (1)
 
 ---
+## Selected Publications
 
-## ⚙️ Dotfiles
+### 2025
 
-My personal laboratory setup — catalysts for productivity:
+**FlashMol: High-Quality Molecule Generation in as Few as Four Steps**
+Xinyuan Wei\*, Zian Li\*, Shaoheng Yan, Cai Zhou, Muhan Zhang†
+[[Paper\]](#)
 
-🔗 **[Dotfiles Repository](https://github.com/Sylvan-Wesley/Dotfiles)**
+> \* equal contribution  | † corresponding author
 
 ---
 
