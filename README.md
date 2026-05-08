@@ -24,7 +24,7 @@ From balancing equations to balancing gradients — the reaction continues.
 - **Machine Learning**
 - **CS231n** *(self-taught)* 
 - **Missing Semester** *(self-taught)*
-- Intensive Readings for English Majors (1)
+- **Intensive Readings for English Majors (1)**
 
 ---
 ## Selected Publications
@@ -32,6 +32,7 @@ From balancing equations to balancing gradients — the reaction continues.
 ### 2025
 
 **FlashMol: High-Quality Molecule Generation in as Few as Four Steps**
+
 Xinyuan Wei\*, Zian Li\*, Shaoheng Yan, Cai Zhou, Muhan Zhang†
 [[Paper\]](#)
 
