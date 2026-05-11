@@ -34,7 +34,7 @@ From balancing equations to balancing gradients — the reaction continues.
 **FlashMol: High-Quality Molecule Generation in as Few as Four Steps**
 
 Xinyuan Wei\*, Zian Li\*, Shaoheng Yan, Cai Zhou, Muhan Zhang†
-[[Paper\]](#)
+[[Paper\]](https://arxiv.org/abs/2605.07020)
 
 > \* equal contribution  | † corresponding author
 
